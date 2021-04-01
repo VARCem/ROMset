@@ -1,0 +1,11 @@
+Item Number:  REFBIOS00200400   
+Title:  PB570 / 650 BIOS V1.00.07BY0R   
+Applies to:  BIOS,  
+Version:  1.00.07BY0R   
+Entry Date:  26 Nov 1997   
+Operating System:  DOS 6.20   
+Description:  PB570 / 650 BIOS V1.00.07BY0R    
+Technical Notes:     
+Installation Notes:  After downloading, extract the file to a blank, formatted 3,5" HD disk and reboot your computer with this disk inserted.    
+Download:  Disk 1: Disk1_1.exe size: 1348212, date: 02/10/1998 10:15:00 
+ 

@@ -1,0 +1,69 @@
+#
+# VARCem	Virtual Archaelogical Computer EMulator.
+#
+#		This file is part of the VARCem Project.
+#
+#		ROM BIOS definition file.
+#
+# CREDITS:	The contents of the defined ROM BIOS images are property
+#		of IBM Corporation.
+#
+#		Although the  software could be  considered 'abandonware'
+#		given their age, these  files files  are  distributed  in
+#		the hope they will be of use for personal enjoyment ONLY.
+#
+# Version:	@(#)bios.txt	1.0.4	2020/10/23
+#
+# Author:	Fred N. van Kempen, <decwiz@yahoo.com>
+#
+#		Copyright 2018-2020 Fred N. van Kempen.
+#
+#		Redistribution and  use  in source  and binary forms, with
+#		or  without modification, are permitted  provided that the
+#		following conditions are met:
+#
+#		1. Redistributions of  source  code must retain the entire
+#		   above notice, this list of conditions and the following
+#		   disclaimer.
+#
+#		2. Redistributions in binary form must reproduce the above
+#		   copyright  notice,  this list  of  conditions  and  the
+#		   following disclaimer in  the documentation and/or other
+#		   materials provided with the distribution.
+#
+#		3. Neither the  name of the copyright holder nor the names
+#		   of  its  contributors may be used to endorse or promote
+#		   products  derived from  this  software without specific
+#		   prior written permission.
+#
+# THIS SOFTWARE  IS  PROVIDED BY THE  COPYRIGHT  HOLDERS AND CONTRIBUTORS
+# "AS IS" AND  ANY EXPRESS  OR  IMPLIED  WARRANTIES,  INCLUDING, BUT  NOT
+# LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+# PARTICULAR PURPOSE  ARE  DISCLAIMED. IN  NO  EVENT  SHALL THE COPYRIGHT
+# HOLDER OR  CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+# SPECIAL,  EXEMPLARY,  OR  CONSEQUENTIAL  DAMAGES  (INCLUDING,  BUT  NOT
+# LIMITED TO, PROCUREMENT OF SUBSTITUTE  GOODS OR SERVICES;  LOSS OF USE,
+# DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED  AND ON  ANY
+# THEORY OF  LIABILITY, WHETHER IN  CONTRACT, STRICT  LIABILITY, OR  TORT
+# (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING  IN ANY  WAY OUT OF THE USE
+# OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+#
+
+size	131072		# total BIOS area size
+offset	0		# offset into BIOS area
+mode	interleaved	# "linear" or "interleaved"
+
+
+file	"90x7423.zm14", 0, 0x000000, 32768
+ md5sum	CB09150D0C656C9311C321123D641752
+file	"90x7426.zm16", 0, 0x000000, 32768
+ md5sum	1E0796D7C60EC058CB1E747DBE66841E
+
+# Now load part 2 of the BIOS ROM.
+file	"90x7420.zm13", 0, 0x010000, 32768
+ md5sum	958DD1EE4329ADEC03BF2054414ADD6C
+file	"90x7429.zm18", 0, 0x010000, 32768
+ md5sum	C5D70D16EF7644AF65A6BF181712F8EB
+
+
+# End of file.

@@ -1,0 +1,71 @@
+#
+# VARCem	Virtual Archaelogical Computer EMulator.
+#
+#		This file is part of the VARCem Project.
+#
+#		ROM BIOS definition file.
+#
+# CREDITS:	The contents of the defined ROM BIOS images are property
+#		of IBM Corporation.
+#
+#		Although the  software could be  considered 'abandonware'
+#		given their age, these  files files  are  distributed  in
+#		the hope they will be of use for personal enjoyment ONLY.
+#
+# Version:	@(#)bios.txt	1.0.6	2020/10/23
+#
+# Author:	Fred N. van Kempen, <decwiz@yahoo.com>
+#
+#		Copyright 2018-2020 Fred N. van Kempen.
+#
+#		Redistribution and  use  in source  and binary forms, with
+#		or  without modification, are permitted  provided that the
+#		following conditions are met:
+#
+#		1. Redistributions of  source  code must retain the entire
+#		   above notice, this list of conditions and the following
+#		   disclaimer.
+#
+#		2. Redistributions in binary form must reproduce the above
+#		   copyright  notice,  this list  of  conditions  and  the
+#		   following disclaimer in  the documentation and/or other
+#		   materials provided with the distribution.
+#
+#		3. Neither the  name of the copyright holder nor the names
+#		   of  its  contributors may be used to endorse or promote
+#		   products  derived from  this  software without specific
+#		   prior written permission.
+#
+# THIS SOFTWARE  IS  PROVIDED BY THE  COPYRIGHT  HOLDERS AND CONTRIBUTORS
+# "AS IS" AND  ANY EXPRESS  OR  IMPLIED  WARRANTIES,  INCLUDING, BUT  NOT
+# LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+# PARTICULAR PURPOSE  ARE  DISCLAIMED. IN  NO  EVENT  SHALL THE COPYRIGHT
+# HOLDER OR  CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+# SPECIAL,  EXEMPLARY,  OR  CONSEQUENTIAL  DAMAGES  (INCLUDING,  BUT  NOT
+# LIMITED TO, PROCUREMENT OF SUBSTITUTE  GOODS OR SERVICES;  LOSS OF USE,
+# DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED  AND ON  ANY
+# THEORY OF  LIABILITY, WHETHER IN  CONTRACT, STRICT  LIABILITY, OR  TORT
+# (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING  IN ANY  WAY OUT OF THE USE
+# OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+#
+
+size	8192		# total BIOS area size
+offset	0x00e000	# offset into BIOS area
+mode	linear		# "linear" or "interleaved"
+
+
+file	"pc102782.bin"
+ md5sum	F453EB2DF6DAF21EC644D33663D85434
+
+# Try to load the (full) IBM BASIC ROM.
+optional "rom_basic"	file	"ibm-basic-1.10.rom", 0, 0x006000, 32768
+ md5sum	EB28F0E8D3F641F2B58A3677B3B998CC
+
+# Try to load the IBM BASIC ROM images.
+#optional "rom_basic"	file	"basicc11.f6", 0, 0x006000, 8192
+#optional "rom_basic"	file	"basicc11.f8", 0, 0x008000, 8192
+#optional "rom_basic"	file	"basicc11.fa", 0, 0x00a000, 8192
+#optional "rom_basic"	file	"basicc11.fc", 0, 0x00c000, 8192
+
+
+# End of file.

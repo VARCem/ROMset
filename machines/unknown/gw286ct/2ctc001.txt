@@ -1,0 +1,13 @@
+Name:           GW-286CT GEAR
+Revision:       -
+CPU/FPU:        CS80C286, 2C87
+Chipset:        C&T F82C235
+ICs:            MBL8042H-352
+Memory:         SIMM-30 (4)
+Exp. slots:     ISA-8 (2), ISA-16 (5)
+Id string:      ???
+BIOS:           C&T 286 BIOS
+ROM:            NMC27C512Q (64k)
+File:           2ctc001.bin
+MD5:            b29a31f57d499555055f2916b331c33b
+Comment:        -

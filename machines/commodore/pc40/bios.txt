@@ -1,0 +1,75 @@
+#
+# VARCem	Virtual Archaelogical Computer EMulator.
+#
+#		This file is part of the VARCem Project.
+#
+#		ROM BIOS definition file.
+#
+# CREDITS:	The contents of the defined ROM BIOS images are property
+#		of Commodore Business Machines, Inc.
+#
+#		Although the  software could be  considered 'abandonware'
+#		given their age, these  files files  are  distributed  in
+#		the hope they will be of use for personal enjoyment ONLY.
+#
+# Version:	@(#)bios.txt	1.0.3	2020/10/26
+#
+# Author:	Fred N. van Kempen, <decwiz@yahoo.com>
+#
+#		Copyright 2018-2020 Fred N. van Kempen.
+#
+#		Redistribution and  use  in source  and binary forms, with
+#		or  without modification, are permitted  provided that the
+#		following conditions are met:
+#
+#		1. Redistributions of  source  code must retain the entire
+#		   above notice, this list of conditions and the following
+#		   disclaimer.
+#
+#		2. Redistributions in binary form must reproduce the above
+#		   copyright  notice,  this list  of  conditions  and  the
+#		   following disclaimer in  the documentation and/or other
+#		   materials provided with the distribution.
+#
+#		3. Neither the  name of the copyright holder nor the names
+#		   of  its  contributors may be used to endorse or promote
+#		   products  derived from  this  software without specific
+#		   prior written permission.
+#
+# THIS SOFTWARE  IS  PROVIDED BY THE  COPYRIGHT  HOLDERS AND CONTRIBUTORS
+# "AS IS" AND  ANY EXPRESS  OR  IMPLIED  WARRANTIES,  INCLUDING, BUT  NOT
+# LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+# PARTICULAR PURPOSE  ARE  DISCLAIMED. IN  NO  EVENT  SHALL THE COPYRIGHT
+# HOLDER OR  CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+# SPECIAL,  EXEMPLARY,  OR  CONSEQUENTIAL  DAMAGES  (INCLUDING,  BUT  NOT
+# LIMITED TO, PROCUREMENT OF SUBSTITUTE  GOODS OR SERVICES;  LOSS OF USE,
+# DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED  AND ON  ANY
+# THEORY OF  LIABILITY, WHETHER IN  CONTRACT, STRICT  LIABILITY, OR  TORT
+# (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING  IN ANY  WAY OUT OF THE USE
+# OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+#
+
+# This is the original BIOS from Commodore:
+size	32768		# total BIOS area size
+offset	0x8000		# offset into BIOS area
+mode	interleaved	# "linear" or "interleaved"
+
+
+# Phoenix BIOS v2.03:
+file	"cbm-pc40c-bios-lo-v2.03-390339-04-03bc.bin"
+ md5sum	EDB996A7C9CDF2A934A9CA3153345478
+file	"cbm-pc40c-bios-hi-v2.03-390340-04-3344.bin"
+ md5sum	8E2BC942A574B7AE8A0AC5CEB57CD524
+
+# Award BIOS v2.07:
+#file	"380813-02_u82_low_207_axc.bin"
+# md5sum	179842DB6304BBF7FAD232A65A85B5ED
+#file	"380813-01_u80_high_207_axc.bin"
+# md5sum	0EECD35D34C9EDF2DBDD22EAB918D8A5
+
+# Video BIOS for PC-40 and PC-45:
+#video	"cbm-pc40c-bios-lo-v2.0-390337-02-b065.bin", 16384
+#	"cbm-pc40c-bios-hi-v2.0-390338-02-389b.bin", 16384
+
+
+# End of file.

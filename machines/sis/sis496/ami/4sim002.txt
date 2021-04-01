@@ -1,0 +1,13 @@
+Name:           ??? (SIS 496/7G)
+Revision:       REV 1.02
+CPU/FPU:        Socket 3
+Chipset:        SiS 85C496/85C497
+ICs:            Prime 3B, JETkey V5.0, W24257AK-15, W24512AK-15 (4)
+Memory:         SIMM-72 (2)
+Exp. slots:     ISA-16 (3), PCI (3)
+Id string:      ???
+BIOS:           AMI 486DX ISA BIOS AA2558003
+ROM:            SST29EE010 (128k)
+File:           4sim002.bin
+MD5:            -
+Comment:        -

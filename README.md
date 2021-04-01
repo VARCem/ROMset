@@ -16,7 +16,7 @@ cards. These files are needed to run.
 COPYRIGHT
 ---------
 
-Rhe contents of the included ROM BIOS images are property
+The contents of the included ROM BIOS images are property
 of their respective owners. Although the  software  could
 be considered 'abandonware' given their age, these  files
 files are distributed in the hope they will be of use for
