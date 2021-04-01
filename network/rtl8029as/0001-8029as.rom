@@ -1,0 +1,428 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0023)file://C:\temp\8029.htm -->
+<!-- saved from url=(0047)http://www.argontechnology.com/mba/ne2000.shtml --><HTML><HEAD><TITLE>Argon Technology MBA: NE2000</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1"><LINK 
+href="8029as.files/fontstyle.css" rel=stylesheet>
+<META content="MSHTML 6.00.2600.0" name=GENERATOR></HEAD>
+<BODY background=8029as.files/bg.gif topMargin=0><LINK 
+href="8029as.files/fontstyle(1).css" rel=stylesheet>
+<SCRIPT language=javascript1.2>
+function js_callpage(htmlurl)
+{
+var newwin=window.open(htmlurl);
+newwin.focus();
+return false;
+}
+</SCRIPT>
+
+<TABLE cellSpacing=0 cellPadding=0 width=640 border=0>
+  <TBODY>
+  <TR>
+    <TD vAlign=baseline width=263><A 
+      href="http://www.argontechnology.com/"><IMG height=78 alt="" 
+      src="8029as.files/argon_logo.gif" width=260 border=0></A></TD>
+    <TD width=23>&nbsp;</TD>
+    <TD vAlign=bottom align=right width=348>
+      <P style="MARGIN-BOTTOM: 2px" align=right><B><SPAN class=grey>The World's 
+      Choice for Network Booting Solutions</B></P></SPAN></TD></TR>
+  <TR>
+    <TD width=638 bgColor=#102984 colSpan=3><FONT face=Verdana color=#ffffff 
+      size=2><B>&nbsp;<A onmouseover="this.style.color='#FFFF00';" 
+      style="COLOR: #ffffff; TEXT-DECORATION: none" 
+      onmouseout="this.style.color='#FFFFFF';" 
+      href="http://www.argontechnology.com/index.html" target=_top>Home</A> | <A 
+      onmouseover="this.style.color='#FFFF00';" 
+      style="COLOR: #ffffff; TEXT-DECORATION: none" 
+      onmouseout="this.style.color='#FFFFFF';" 
+      href="http://www.argontechnology.com/products/index.shtml" 
+      target=_top>Products</A> | <A onmouseover="this.style.color='#FFFF00';" 
+      style="COLOR: #ffffff; TEXT-DECORATION: none" 
+      onmouseout="this.style.color='#FFFFFF';" 
+      href="http://www.argontechnology.com/services/index.shtml" 
+      target=_top>Services</A> | <A onmouseover="this.style.color='#FFFF00';" 
+      style="COLOR: #ffffff; TEXT-DECORATION: none" 
+      onmouseout="this.style.color='#FFFFFF';" 
+      href="http://www.argontechnology.com/support/index.shtml" 
+      target=_top>Support</A> | <A onmouseover="this.style.color='#FFFF00';" 
+      style="COLOR: #ffffff; TEXT-DECORATION: none" 
+      onmouseout="this.style.color='#FFFFFF';" 
+      href="http://www.argontechnology.com/partners/index.shtml" 
+      target=_top>Partners</A><A style="COLOR: #ffffff; TEXT-DECORATION: none"> 
+      </A>| <A onmouseover="this.style.color='#FFFF00';" 
+      style="COLOR: #ffffff; TEXT-DECORATION: none" 
+      onmouseout="this.style.color='#FFFFFF';" 
+      href="http://www.argontechnology.com/news/index.shtml" 
+      target=_top>News</A> | <A onmouseover="this.style.color='#FFFF00';" 
+      style="COLOR: #ffffff; TEXT-DECORATION: none" 
+      onclick="return js_callpage(this.href);" 
+      onmouseout="this.style.color='#FFFFFF';" 
+      href="http://www.bootroms.com/catalog/default.php" target=_top>Store</A> | 
+      <A onmouseover="this.style.color='#FFFF00';" 
+      style="COLOR: #ffffff; TEXT-DECORATION: none" 
+      onmouseout="this.style.color='#FFFFFF';" 
+      href="http://www.argontechnology.com/aboutus/contact.shtml" 
+      target=_top>Contact</A> | <A onmouseover="this.style.color='#FFFF00';" 
+      style="COLOR: #ffffff; TEXT-DECORATION: none" 
+      onmouseout="this.style.color='#FFFFFF';" 
+      href="http://www.argontechnology.com/aboutus/index.shtml" 
+      target=_top>About</A></B></FONT></TD></TR>
+  <TR>
+    <TD vAlign=top width=638 colSpan=3 height=6>&nbsp;</TD></TR></TBODY></TABLE>
+<SCRIPT language=javascript1.2>
+
+function js_callpage(htmlurl)
+
+{
+
+var newwin=window.open(htmlurl);
+
+newwin.focus();
+
+return false;
+
+}
+
+</SCRIPT>
+
+<TABLE cellSpacing=0 cellPadding=0 width=690 border=0>
+  <TBODY>
+  <TR>
+    <TD class=tahoma11 vAlign=top width=530>
+      <P class=vertitle12>Argon Technology Products: MBA ROM</P></TD></TR>
+  <TR>
+    <TD vAlign=top width=530><A name=0></A><SPAN class=verdana12></SPAN></TD></TR>
+  <TR>
+    <TD align=middle><BR><!-- New Product Start -->
+      <TABLE cellSpacing=0 cellPadding=2 width=690 border=0>
+        <TBODY>
+        <TR>
+          <TD class=tahoma11 bgColor=#336699>
+            <DIV class=verboldwhite11>Boot ROM/Boot PROM for network booting 
+            using NE2000 Compatible NE2000 adapter</DIV></TD>
+          <TD align=right bgColor=#336699>&nbsp;</TD></TR></TBODY></TABLE>
+      <TABLE width=690 border=0>
+        <TBODY>
+        <TR>
+          <TD width=430>
+            <TABLE cellSpacing=0 cellPadding=2 width=430 border=0>
+              <TBODY>
+              <TR>
+                <TD align=middle rowSpan=6><IMG height=86 alt="" 
+                  src="8029as.files/single28.jpg" width=122 border=0></TD></TR>
+              <TR>
+                <TD class=tahoma11><U>Features:</U> Single boot protocol</TD></TR>
+              <TR>
+                <TD class=tahoma11><U>Boot Protocols:</U>TCP/IP BOOTP</TD></TR>
+              <TR>
+                <TD class=tahoma11><U>ROM:</U> 28 pin 
+          DIP</TD></TR></TBODY></TABLE></TD>
+          <TD>
+            <TABLE borderColor=#eaeaea cellSpacing=0 cellPadding=3 border=1>
+              <TBODY>
+              <TR>
+                <TD class=tahoma11 noWrap bgColor=#eaeaea><U><SPAN>Part 
+                  Number</U></SPAN></TD>
+                <TD class=tahoma11 noWrap 
+bgColor=#ededed><U>Description</U></TD>
+                <TD class=tahoma11 noWrap bgColor=#ededed>
+                  <P align=center><U>Pricing</U></P></TD></TR>
+              <TR>
+                <TD class=tahoma11 align=middle>40018-01 </TD>
+                <TD class=tahoma11 align=middle>single </TD>
+                <TD class=tahoma11 align=right>$ 15.99 
+</TD></TR></TBODY></TABLE><BR>
+            <TABLE align=center><A onclick="return js_callpage(this.href);" 
+              href="http://www.bootroms.com/catalog/product_info.php/manufacturers_id/21/products_id/119"><IMG 
+              src="8029as.files/buynow.gif" border=0></A> 
+              <TBODY></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD class=tahoma11 colSpan=3><B>Product Description</B></TD></TR>
+        <TR>
+          <TD class=tahoma11 colSpan=3><B>NE2000 Boot ROM for BOOTP</B>: 
+            Supports all version of the Novell NE2000, NE2000 PLUS, Dlink DE200 
+            and DE220, Digital 305, Alta Research Corp, EtherCombo-16 T/C and 
+            EtherTPI-16, Allied Telesyn AT-2000 as well as any 100% NE2000 
+            compatible adapters </TD></TR>
+        <TR>
+          <TD width=690 bgColor=#336699 colSpan=3 height=3><IMG height=3 
+            src="8029as.files/dot.gif" width=690></TD></TR></TBODY></TABLE><BR><!-- New Product Start -->
+      <TABLE cellSpacing=0 cellPadding=2 width=690 border=0>
+        <TBODY>
+        <TR>
+          <TD class=tahoma11 bgColor=#336699>
+            <DIV class=verboldwhite11>Boot ROM/Boot PROM for network booting 
+            using NE2000 Compatible NE2000 adapter</DIV></TD>
+          <TD align=right bgColor=#336699>&nbsp;</TD></TR></TBODY></TABLE>
+      <TABLE width=690 border=0>
+        <TBODY>
+        <TR>
+          <TD width=430>
+            <TABLE cellSpacing=0 cellPadding=2 width=430 border=0>
+              <TBODY>
+              <TR>
+                <TD align=middle rowSpan=6><IMG height=86 alt="" 
+                  src="8029as.files/single28.jpg" width=122 border=0></TD></TR>
+              <TR>
+                <TD class=tahoma11><U>Features:</U> Single boot protocol</TD></TR>
+              <TR>
+                <TD class=tahoma11><U>Boot Protocols:</U>TCP/IP DHCP</TD></TR>
+              <TR>
+                <TD class=tahoma11><U>ROM:</U> 28 pin 
+          DIP</TD></TR></TBODY></TABLE></TD>
+          <TD>
+            <TABLE borderColor=#eaeaea cellSpacing=0 cellPadding=3 border=1>
+              <TBODY>
+              <TR>
+                <TD class=tahoma11 noWrap bgColor=#eaeaea><U><SPAN>Part 
+                  Number</U></SPAN></TD>
+                <TD class=tahoma11 noWrap 
+bgColor=#ededed><U>Description</U></TD>
+                <TD class=tahoma11 noWrap bgColor=#ededed>
+                  <P align=center><U>Pricing</U></P></TD></TR>
+              <TR>
+                <TD class=tahoma11 align=middle>41018-01 </TD>
+                <TD class=tahoma11 align=middle>single </TD>
+                <TD class=tahoma11 align=right>$ 15.99 
+</TD></TR></TBODY></TABLE><BR>
+            <TABLE align=center><A onclick="return js_callpage(this.href);" 
+              href="http://www.bootroms.com/catalog/product_info.php/manufacturers_id/21/products_id/118"><IMG 
+              src="8029as.files/buynow.gif" border=0></A> 
+              <TBODY></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD class=tahoma11 colSpan=3><B>Product Description</B></TD></TR>
+        <TR>
+          <TD class=tahoma11 colSpan=3><B>NE2000 Boot ROM for DHCP</B>: 
+            Supports all version of the Novell NE2000, NE2000 PLUS, Dlink DE200 
+            and DE220, Digital 305, Alta Research Corp, EtherCombo-16 T/C and 
+            EtherTPI-16, Allied Telesyn AT-2000 as well as any 100% NE2000 
+            compatible adapters </TD></TR>
+        <TR>
+          <TD width=690 bgColor=#336699 colSpan=3 height=3><IMG height=3 
+            src="8029as.files/dot.gif" width=690></TD></TR></TBODY></TABLE><BR>
+      <TABLE cellSpacing=0 cellPadding=2 width=690 border=0>
+        <TBODY>
+        <TR>
+          <TD class=tahoma11 bgColor=#336699>
+            <DIV class=verboldwhite11>Boot ROM/Boot PROM for network booting 
+            using NE2000 Compatible NE2000 adapter</DIV></TD>
+          <TD align=right bgColor=#336699>&nbsp;</TD></TR></TBODY></TABLE>
+      <TABLE width=690 border=0>
+        <TBODY>
+        <TR>
+          <TD width=430>
+            <TABLE cellSpacing=0 cellPadding=2 width=430 border=0>
+              <TBODY>
+              <TR>
+                <TD align=middle rowSpan=6><IMG height=86 alt="" 
+                  src="8029as.files/single28.jpg" width=122 border=0></TD></TR>
+              <TR>
+                <TD class=tahoma11><U>Features:</U> Single boot protocol</TD></TR>
+              <TR>
+                <TD class=tahoma11><U>Boot Protocols:</U> Netware</TD></TR>
+              <TR>
+                <TD class=tahoma11><U>NetWare frame types:</U> 802.2</TD></TR>
+              <TR>
+                <TD class=tahoma11><U>ROM:</U> 28 pin 
+          DIP</TD></TR></TBODY></TABLE></TD>
+          <TD>
+            <TABLE borderColor=#eaeaea cellSpacing=0 cellPadding=3 border=1>
+              <TBODY>
+              <TR>
+                <TD class=tahoma11 noWrap bgColor=#eaeaea><U><SPAN>Part 
+                  Number</U></SPAN></TD>
+                <TD class=tahoma11 noWrap 
+bgColor=#ededed><U>Description</U></TD>
+                <TD class=tahoma11 noWrap bgColor=#ededed>
+                  <P align=center><U>Pricing</U></P></TD></TR>
+              <TR>
+                <TD class=tahoma11 align=middle>12018-01 </TD>
+                <TD class=tahoma11 align=middle>Single </TD>
+                <TD class=tahoma11 align=right>$ 15.99 
+</TD></TR></TBODY></TABLE><BR>
+            <TABLE align=center><A onclick="return js_callpage(this.href);" 
+              href="http://www.bootroms.com/catalog/product_info.php/manufacturers_id/21/products_id/120"><IMG 
+              src="8029as.files/buynow.gif" border=0></A> 
+              <TBODY></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD class=tahoma11 colSpan=3><B>Product Description</B></TD></TR>
+        <TR>
+          <TD class=tahoma11 colSpan=3><B>NE2000 BOOT ROM for Netware 
+            802.2</B>: Supports all version of the Novell NE2000, NE2000 PLUS, 
+            Dlink DE200 and DE220, Digital 305, Alta Research Corp, 
+            EtherCombo-16 T/C and EtherTPI-16, Allied Telesyn AT-2000 as well as 
+            any 100% NE2000 compatible adapters </TD></TR>
+        <TR>
+          <TD width=690 bgColor=#336699 colSpan=3 height=3><IMG height=3 
+            src="8029as.files/dot.gif" width=690></TD></TR></TBODY></TABLE><BR><!-- New Product Start -->
+      <TABLE cellSpacing=0 cellPadding=2 width=690 border=0>
+        <TBODY>
+        <TR>
+          <TD class=tahoma11 bgColor=#336699>
+            <DIV class=verboldwhite11>Boot ROM/Boot PROM for network booting 
+            using NE2000 Compatible NE2000 adapter</DIV></TD>
+          <TD align=right bgColor=#336699>&nbsp;</TD></TR></TBODY></TABLE>
+      <TABLE width=690 border=0>
+        <TBODY>
+        <TR>
+          <TD width=430>
+            <TABLE cellSpacing=0 cellPadding=2 width=430 border=0>
+              <TBODY>
+              <TR>
+                <TD align=middle rowSpan=6><IMG height=86 alt="" 
+                  src="8029as.files/single28.jpg" width=122 border=0></TD></TR>
+              <TR>
+                <TD class=tahoma11><U>Features:</U> Single boot protocol</TD></TR>
+              <TR>
+                <TD class=tahoma11><U>Boot Protocols:</U> Netware</TD></TR>
+              <TR>
+                <TD class=tahoma11><U>NetWare frame types:</U> Ethernet 
+              II</TD></TR>
+              <TR>
+                <TD class=tahoma11><U>ROM:</U> 28 pin 
+          DIP</TD></TR></TBODY></TABLE></TD>
+          <TD>
+            <TABLE borderColor=#eaeaea cellSpacing=0 cellPadding=3 border=1>
+              <TBODY>
+              <TR>
+                <TD class=tahoma11 noWrap bgColor=#eaeaea><U><SPAN>Part 
+                  Number</U></SPAN></TD>
+                <TD class=tahoma11 noWrap 
+bgColor=#ededed><U>Description</U></TD>
+                <TD class=tahoma11 noWrap bgColor=#ededed>
+                  <P align=center><U>Pricing</U></P></TD></TR>
+              <TR>
+                <TD class=tahoma11 align=middle>11018-01 </TD>
+                <TD class=tahoma11 align=middle>Single </TD>
+                <TD class=tahoma11 align=right>$ 15.99 
+</TD></TR></TBODY></TABLE><BR>
+            <TABLE align=center><A onclick="return js_callpage(this.href);" 
+              href="http://www.bootroms.com/catalog/product_info.php/manufacturers_id/21/products_id/121"><IMG 
+              src="8029as.files/buynow.gif" border=0></A> 
+              <TBODY></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD class=tahoma11 colSpan=3><B>Product Description</B></TD></TR>
+        <TR>
+          <TD class=tahoma11 colSpan=3><B>NE2000 for Netware Ethernet II</B>: 
+            Supports all version of the Novell NE2000, NE2000 PLUS, Dlink DE200 
+            and DE220, Digital 305, Alta Research Corp, EtherCombo-16 T/C and 
+            EtherTPI-16, Allied Telesyn AT-2000 as well as any 100% NE2000 
+            compatible adapters </TD></TR>
+        <TR>
+          <TD width=690 bgColor=#336699 colSpan=3 height=3><IMG height=3 
+            src="8029as.files/dot.gif" width=690></TD></TR></TBODY></TABLE><BR><!-- New Product Start -->
+      <TABLE cellSpacing=0 cellPadding=2 width=690 border=0>
+        <TBODY>
+        <TR>
+          <TD class=tahoma11 bgColor=#336699>
+            <DIV class=verboldwhite11>Boot ROM/Boot PROM for network booting 
+            using NE2000 Compatible NE2000 adapter</DIV></TD>
+          <TD align=right bgColor=#336699>&nbsp;</TD></TR></TBODY></TABLE>
+      <TABLE width=690 border=0>
+        <TBODY>
+        <TR>
+          <TD width=430>
+            <TABLE cellSpacing=0 cellPadding=2 width=430 border=0>
+              <TBODY>
+              <TR>
+                <TD align=middle rowSpan=6><IMG height=86 alt="" 
+                  src="8029as.files/single28.jpg" width=122 border=0></TD></TR>
+              <TR>
+                <TD class=tahoma11><U>Features:</U> Single boot protocol</TD></TR>
+              <TR>
+                <TD class=tahoma11><U>Boot Protocols:</U> Netware</TD></TR>
+              <TR>
+                <TD class=tahoma11><U>NetWare frame types:</U> 802.3</TD></TR>
+              <TR>
+                <TD class=tahoma11><U>ROM:</U> 28 pin 
+          DIP</TD></TR></TBODY></TABLE></TD>
+          <TD>
+            <TABLE borderColor=#eaeaea cellSpacing=0 cellPadding=3 border=1>
+              <TBODY>
+              <TR>
+                <TD class=tahoma11 noWrap bgColor=#eaeaea><U><SPAN>Part 
+                  Number</U></SPAN></TD>
+                <TD class=tahoma11 noWrap 
+bgColor=#ededed><U>Description</U></TD>
+                <TD class=tahoma11 noWrap bgColor=#ededed>
+                  <P align=center><U>Pricing</U> &nbsp;</P></TD></TR>
+              <TR>
+                <TD class=tahoma11 align=middle>10018-01 </TD>
+                <TD class=tahoma11 align=middle>Single </TD>
+                <TD class=tahoma11 align=right>$ 15.99 
+</TD></TR></TBODY></TABLE><BR>
+            <TABLE align=center><A onclick="return js_callpage(this.href);" 
+              href="http://www.bootroms.com/catalog/product_info.php/manufacturers_id/21/products_id/122"><IMG 
+              src="8029as.files/buynow.gif" border=0></A> 
+              <TBODY></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD class=tahoma11 colSpan=3><B>Product Description</B></TD></TR>
+        <TR>
+          <TD class=tahoma11 colSpan=3><B>NE2000 BOOT ROM for Netware 
+            802.3</B>: Supports all version of the Novell NE2000, NE2000 PLUS, 
+            Dlink DE200 and DE220, Digital 305, Alta Research Corp, 
+            EtherCombo-16 T/C and EtherTPI-16, Allied Telesyn AT-2000 as well as 
+            any 100% NE2000 compatible adapters </TD></TR>
+        <TR>
+          <TD width=690 bgColor=#336699 colSpan=3 height=3><IMG height=3 
+            src="8029as.files/dot.gif" width=690></TD></TR></TBODY></TABLE><BR><!-- New Product Start -->
+      <TABLE cellSpacing=0 cellPadding=2 width=690 border=0>
+        <TBODY>
+        <TR>
+          <TD class=tahoma11 bgColor=#336699>
+            <DIV class=verboldwhite11>Boot ROM/Boot PROM for network booting 
+            using NE2000 Compatible NE2000 adapter</DIV></TD>
+          <TD align=right bgColor=#336699>&nbsp;</TD></TR></TBODY></TABLE>
+      <TABLE width=690 border=0>
+        <TBODY>
+        <TR>
+          <TD width=430>
+            <TABLE cellSpacing=0 cellPadding=2 width=430 border=0>
+              <TBODY>
+              <TR>
+                <TD align=middle rowSpan=6><IMG height=86 alt="" 
+                  src="8029as.files/single28.jpg" width=122 border=0></TD></TR>
+              <TR>
+                <TD class=tahoma11><U>Features:</U> Single boot protocol</TD></TR>
+              <TR>
+                <TD class=tahoma11><U>Boot Protocols:</U> RPL</TD></TR>
+              <TR>
+                <TD class=tahoma11><U>ROM:</U> 28 pin 
+          DIP</TD></TR></TBODY></TABLE></TD>
+          <TD>
+            <TABLE borderColor=#eaeaea cellSpacing=0 cellPadding=3 border=1>
+              <TBODY>
+              <TR>
+                <TD class=tahoma11 noWrap bgColor=#eaeaea><U><SPAN>Part 
+                  Number</U></SPAN></TD>
+                <TD class=tahoma11 noWrap 
+bgColor=#ededed><U>Description</U></TD>
+                <TD class=tahoma11 noWrap bgColor=#ededed>
+                  <P align=center><U>Pricing</U></P></TD></TR>
+              <TR>
+                <TD class=tahoma11 align=middle>20018-01 </TD>
+                <TD class=tahoma11 align=middle>single </TD>
+                <TD class=tahoma11 align=right>$ 15.99 
+</TD></TR></TBODY></TABLE><BR>
+            <TABLE align=center><A onclick="return js_callpage(this.href);" 
+              href="http://www.bootroms.com/catalog/product_info.php/manufacturers_id/21/products_id/123"><IMG 
+              src="8029as.files/buynow.gif" border=0></A> 
+              <TBODY></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD class=tahoma11 colSpan=3><B>Product Description</B></TD></TR>
+        <TR>
+          <TD class=tahoma11 colSpan=3><B>NE2000 Boot ROM for RPL</B>: 
+            Supports all version of the Novell NE2000, NE2000 PLUS, Dlink DE200 
+            and DE220, Digital 305, Alta Research Corp, EtherCombo-16 T/C and 
+            EtherTPI-16, Allied Telesyn AT-2000 as well as any 100% NE2000 
+            compatible adapters </TD></TR>
+        <TR>
+          <TD width=690 bgColor=#336699 colSpan=3 height=3><IMG height=3 
+            src="8029as.files/dot.gif" width=690></TD></TR></TBODY></TABLE><BR>
+      <DIV class=tahoma11></DIV>&nbsp; 
+      <TABLE width=640 border=0>
+        <TBODY>
+        <TR>
+          <TD>
+            <P class=footer>COPYRIGHT 2002 ARGON TECHNOLOGY CORPORATION. ALL 
+            RIGHTS 
+RESERVED.</P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></BODY></HTML>
